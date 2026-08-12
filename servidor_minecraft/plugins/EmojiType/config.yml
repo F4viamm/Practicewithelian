@@ -1,0 +1,29 @@
+# How to add a new emoji.
+#
+# ":EMOJI_NAME:": "UNICODE SYMBOL"
+#
+# EMOJI_NAME is what you want your players to enter, it can be anything. It's just what the plugin searches for to
+# replace.
+# UNICODE_SYMBOL is the unicode symbol that your emoji is defined as in your resource pack
+# There's tutorials and tools out there to make resource packs for unicode symbols, it's pretty easy. I know that
+# https://modrinth.com/resourcepack/cheerful?version=1.21.5 can provide a good start!
+# I used https://tools.nauticalhosting.org/packgen/ as I was working on this. It gives you the unicode mappings in your
+# pack file.
+#
+# I also included three permission levels in this, just give your players the permission level based on what emojis you
+# want your players to have access to.
+#
+# Do "/emoji reload" if you want to reload this config.
+
+# Permission level: emojitype.levelone
+emojis-level-one:
+  ":heart_eyes:": ""
+  #":EMOJI_NAME:": "UNICODE_SYMBOL"
+
+# Permission level: emojitype.leveltwo
+emojis-level-two:
+  ":angry:": ""
+
+# Permission level: emojitype.levelthree
+emojis-level-three:
+  ":mind_blown:": ""

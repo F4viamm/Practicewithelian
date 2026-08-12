@@ -1,0 +1,30 @@
+logout_location:
+  world: world
+  x: 77.69999998807907
+  y: 67.0
+  z: 652.6154352577922
+  pitch: 8.869244
+  yaw: 149.4151
+last_location:
+  world: world
+  x: -61.65482332393287
+  y: -12.0
+  z: -131.69999998807907
+  pitch: 16.80028
+  yaw: 37.465942
+default_home: casita
+homes:
+  casita:
+    world: world
+    x: 74.14811643380988
+    y: 67.0
+    z: 649.6339758316216
+    pitch: 11.531241
+    yaw: -173.50928
+  mina:
+    world: world
+    x: -64.07654250207456
+    y: -11.0
+    z: -122.39688517675646
+    pitch: 27.750126
+    yaw: 148.16238

@@ -1,0 +1,91 @@
+transactions:
+  1784233624271_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:04'
+    balance_after: 90.0
+  1784233624585_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:04'
+    balance_after: 80.0
+  1784233625186_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:05'
+    balance_after: 70.0
+  1784233645773_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:25'
+    balance_after: 60.0
+  1784233652347_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:32'
+    balance_after: 50.0
+  1784233652712_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:32'
+    balance_after: 40.0
+  1784233652979_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:32'
+    balance_after: 30.0
+  1784233653330_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:33'
+    balance_after: 20.0
+  1784233653630_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:33'
+    balance_after: 10.0
+  1784233653981_db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1:
+    player: Bastard
+    uuid: db9b38ee-1be8-3c4f-8ff8-5b576b1e92f1
+    item: DARK_OAK_PLANKS
+    amount: 1
+    price: 10.0
+    category: category3
+    timestamp: '2026-07-16 20:27:33'
+    balance_after: 0.0

@@ -1,0 +1,24 @@
+language: es_MX
+last_location:
+  world: world
+  x: -296.01365658342684
+  y: 66.0
+  z: 837.7416301390633
+  pitch: 6.750005
+  yaw: -127.64988
+logout_location:
+  world: world
+  x: 71.93247946092652
+  y: 67.17675927506424
+  z: 639.2193120919794
+  pitch: 19.836163
+  yaw: 100.02368
+default_home: Base
+homes:
+  Base:
+    world: world
+    x: 74.9371606064483
+    y: 67.0
+    z: 643.9315377363367
+    pitch: 18.919992
+    yaw: -115.57422

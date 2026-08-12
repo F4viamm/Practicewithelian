@@ -1,0 +1,15 @@
+language: es_ES
+last_location:
+  world: world
+  x: 700.5
+  y: 87.0
+  z: -411.5
+  pitch: 0.0
+  yaw: 0.0
+logout_location:
+  world: world
+  x: -151.5270862969576
+  y: 12.0
+  z: -66.37739255550906
+  pitch: 12.450062
+  yaw: -162.54688

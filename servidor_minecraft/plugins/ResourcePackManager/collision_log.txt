@@ -1,0 +1,11 @@
+Resource Pack Collision Log
+Generated: 2026-08-12T14:06:25.339874549
+================================================
+
+Replaced: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.png
+Replaced: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.mcmeta
+Replaced: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.png
+Replaced: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.mcmeta
+Replaced: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.png
+Replaced: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/pack.mcmeta
+Merged: /workspaces/Practicewithelian/servidor_minecraft/plugins/ResourcePackManager/output/ResourcePackManager_RSP/assets/minecraft/atlases/blocks.json
