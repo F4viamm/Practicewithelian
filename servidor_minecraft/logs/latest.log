@@ -1,0 +1,181 @@
+[19:45:56] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[19:45:56] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[19:45:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:45:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[19:45:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - DoubleDoors (1.4.8), LuckPerms (5.5.71), OpenAudioMc (6.10.17), Resize (1.2.4), ResourcePackManager (2.3.1), SkinsRestorer (15.12.5), TPA (3.3.1)
+[19:46:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:46:04] [ServerMain/INFO]: Loaded 1515 recipes
+[19:46:04] [ServerMain/INFO]: Loaded 1618 advancements
+[19:46:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:46:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 417.4ms
+[19:46:04] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:46:04] [Server thread/INFO]: Loading properties
+[19:46:04] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[19:46:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:46:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:46:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:46:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:46:05] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:05] [Server thread/INFO]: Generating keypair
+[19:46:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:46:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:46:05] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:46:05] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.71
+[19:46:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:46:06] [Server thread/INFO]: [OpenAudioMc] Loading server plugin OpenAudioMc v6.10.17
+[19:46:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.5
+[19:46:06] [Server thread/INFO]: [TPA] Loading server plugin TPA v3.3.1
+[19:46:06] [Server thread/INFO]: [DoubleDoors] Loading server plugin DoubleDoors v1.4.8
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] Loading server plugin ResourcePackManager v2.3.1
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] MagmaCore v1.29-SNAPSHOT initialized!
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] Registered /logify command
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] Registered /nightbreaklogin command
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] Registered /nightbreaklogout command
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] Registered /nightbreak command
+[19:46:06] [Server thread/INFO]: [ResourcePackManager] No account token found. Use /nightbreaklogin <token> to register your token.
+[19:46:06] [Server thread/INFO]: [Resize] Loading server plugin Resize v1.2.4
+[19:46:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:46:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.71
+[19:46:06] [Server thread/INFO]:         __    
+[19:46:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.71
+[19:46:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:46:06] [Server thread/INFO]: 
+[19:46:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:46:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:46:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:46:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 869ms)
+[19:46:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.5
+[19:46:07] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[19:46:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:46:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:46:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:46:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:46:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:46:08] [Server thread/INFO]: Preparing level "world"
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.5
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 98b9488
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:46:08] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[19:46:08] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[19:46:08] [Server thread/INFO]: Preparing spawn area: 100%
+[19:46:08] [Server thread/INFO]: Prepared spawn area in 1 ms
+[19:46:08] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[19:46:08] [Server thread/INFO]: Prepared spawn area in 1 ms
+[19:46:08] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[19:46:08] [Server thread/INFO]: Prepared spawn area in 2 ms
+[19:46:08] [Server thread/INFO]: Done preparing level "world" (0.503s)
+[19:46:08] [Server thread/INFO]: [OpenAudioMc] Enabling OpenAudioMc v6.10.17
+[19:46:08] [Server thread/INFO]: [OpenAudioMc] [info] Starting OpenAudioMc, build 1629 by mats
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Using the main config file..
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Starting configuration module
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Using the main config file..
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Starting configuration module
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Detected md_5 chat support, using default user adapter
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Skipped 47/47 migrations.
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] ModuleLoaderService: Loading modules from /workspaces/Practicewithelian/servidor_minecraft/plugins/OpenAudioMc/modules
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Using networking class com.craftmend.openaudiomc.generic.networking.DefaultNetworkingService
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Initializing connection service...
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Starting authentication module
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] This server already has an account, skipping sign up.
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Adding spigot tables
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Alias
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (alias<->Alias.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for ClientDataStore
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for MojangProfile
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for RegionProperties
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Speaker
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for StoredWorldChunk
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for TimedRegionProperties
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (timed_region_properties<->TimedRegionProperties.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for MediaRule
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (media_rule<->MediaRule.java)
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] Initializing account details
+[19:46:09] [Server thread/INFO]: [OpenAudioMc] [info] The server is empty! ignoring voice chat.
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Loading aliases...
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 0 aliases
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Enabling the 1.13 speaker system
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Using modern speaker NBT util
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Starting redstone speaker tick task with interval 5 ticks
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for Playlist
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (playlists<->Playlist.java)
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Registering storage table for PlaylistEntry
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] DatabaseService: Registering class <-> table (playlist_entries<->PlaylistEntry.java)
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 0 media chunks from file.
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Loading static voice channels..
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: survival
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: off-topic
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: staff-chat
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Created static channel: admin-chat
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Loaded 4 static voice channels
+[19:46:10] [Server thread/INFO]: [OpenAudioMc] [info] Starting and loading took 4241MS
+[19:46:10] [Server thread/INFO]: [TPA] Enabling TPA v3.3.1
+[19:46:10] [Server thread/INFO]: [DoubleDoors] Enabling DoubleDoors v1.4.8
+[19:46:10] [Server thread/INFO]: [DoubleDoors] Built-in updater checks are enabled for DoubleDoors.
+[19:46:10] [Server thread/INFO]: [DoubleDoors] LuckPerms detected: permissions handled via doubledoors.* nodes.
+[19:46:10] [Server thread/INFO]: [DoubleDoors] DoubleDoors enabled.
+[19:46:10] [Server thread/INFO]: [DoubleDoors] Server API version: 26.1.2.build.60-stable
+[19:46:10] [Server thread/INFO]: [ResourcePackManager] Enabling ResourcePackManager v2.3.1
+[19:46:10] [Server thread/INFO]: 
+  ___  ___ ___ __  __                             
+ | _ \/ __| _ \  \/  |__ _ _ _  __ _ __ _ ___ _ _ 
+ |   /\__ \  _/ |\/| / _` | ' \/ _` / _` / -_) '_|
+ |_|_\|___/_| |_|  |_\__,_|_||_\__,_\__, \___|_|  
+                                    |___/         
+[19:46:10] [Server thread/INFO]: ResourcePackManager v.2.3.1
+[19:46:10] [Server thread/INFO]: [com.magmaguy.shaded.reflections.Reflections] Reflections took 76 ms to scan 1 urls, producing 1 keys and 20 values
+[19:46:10] [Server thread/INFO]: [Resize] Enabling Resize v1.2.4
+[19:46:10] [Server thread/INFO]: [Resize] Using attribute: minecraft:scale
+[19:46:10] [Server thread/INFO]: [Resize] WorldGuard not found.
+[19:46:10] [Server thread/INFO]: [spark] Starting background profiler...
+[19:46:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:46:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:46:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:46:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:46:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:46:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:46:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:46:11] [Server thread/INFO]: Running delayed init tasks
+[19:46:11] [Server thread/INFO]: Done (16.388s)! For help, type "help"
+[19:46:11] [Craft Scheduler Thread - 3 - TPA/INFO]: [TPA] ¡Plugin cargado! Versión: 3.3.1
+[19:46:11] [Paper Async Task Handler Thread - 1/WARN]: *** You are running an outdated version of Minecraft, which is 2 release(s) and 14 build(s) behind!
+[19:46:11] [Paper Async Task Handler Thread - 1/WARN]: *** Please update to the latest stable version on https://papermc.io/downloads/paper ***
+[19:46:11] [Craft Scheduler Thread - 3 - TPA/INFO]: [TPA] Buscando actualizaciones...
+[19:46:11] [Server thread/INFO]: [ResourcePackManager] Geyser-Spigot and Floodgate were not detected locally; skipping automatic Geyser extension installation.
+[19:46:11] [Craft Scheduler Thread - 3 - TPA/INFO]: [TPA] ¡Actualizado!
+[19:46:11] [Server thread/INFO]: [ResourcePackManager] ResourcePackManager fully initialized!
+[19:46:12] [Craft Scheduler Thread - 4 - ResourcePackManager/WARN]: [ResourcePackManager] Failed to connect to remote server to autohost the resource pack!
+[19:46:17] [Craft Scheduler Thread - 5 - ResourcePackManager/INFO]: [ResourcePackManager] Resource pack is live via automatic hosting — https://magmaguy.com/rsp/5056dbb2-eda9-45d7-a01b-9c3f6960dac4
+[19:47:48] [User Authenticator #0/INFO]: UUID of player ubuntu is 839c7574-bc2f-37d8-8c64-d69b29aa84a6
+[19:47:48] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[19:47:50] [Server thread/INFO]: ubuntu joined the game
+[19:47:50] [Server thread/INFO]: ubuntu[/127.92.206.63:39327] logged in with entity id 1 at ([minecraft:overworld]2479.9235464147837, 117.0, 3331.699999988079)
+[19:47:50] [Craft Scheduler Thread - 2 - OpenAudioMc/WARN]: [OpenAudioMc] WARNING: Failed to save a model. Trying again later (ClientDataStore)
+[19:47:56] [Craft Scheduler Thread - 2 - OpenAudioMc/WARN]: [OpenAudioMc] WARNING: Failed to save a model. This is a error. (ClientDataStore) (IllegalArgumentException/java.lang.ArithmeticException: long overflow)
+[19:47:56] [Craft Scheduler Thread - 7 - OpenAudioMc/INFO]: [OpenAudioMc] [info] Attempting to login to voice chat...
+[19:47:57] [OaVoiceWorker/INFO]: [OpenAudioMc] [info] Voice chat connected!
+[19:48:29] [Server thread/INFO]: ubuntu lost connection: Disconnected
+[19:48:29] [Server thread/INFO]: ubuntu left the game
+[19:48:29] [Craft Scheduler Thread - 2 - OpenAudioMc/WARN]: [OpenAudioMc] WARNING: Failed to save a model. Trying again later (ClientDataStore)
+[19:48:34] [Craft Scheduler Thread - 2 - OpenAudioMc/WARN]: [OpenAudioMc] WARNING: Failed to save a model. This is a error. (ClientDataStore) (IllegalArgumentException/java.lang.ArithmeticException: long overflow)
+[19:48:38] [User Authenticator #1/INFO]: UUID of player blunt is c1d0f6a2-de8e-3f9f-9061-2c2147dc3b61
+[19:48:39] [Server thread/INFO]: blunt joined the game
+[19:48:39] [Server thread/INFO]: blunt[/127.92.206.63:42369] logged in with entity id 238 at ([minecraft:overworld]2576.070642191207, 63.0, 2904.315972203463)
+[19:52:24] [Craft Scheduler Thread - 4 - ResourcePackManager/INFO]: [ResourcePackManager] Latest Nightbreak release is 2.3.1
+[19:52:24] [Craft Scheduler Thread - 4 - ResourcePackManager/INFO]: [ResourcePackManager] Your version is 2.3.1
+[19:52:24] [Craft Scheduler Thread - 4 - ResourcePackManager/INFO]: [ResourcePackManager] You are running the latest version!
+[19:52:54] [EventThread/INFO]: [OpenAudioMc] [info] The server closed the primary connection, but we were already aware of this. Ignoring.
